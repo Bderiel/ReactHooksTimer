@@ -1,2 +1,0 @@
-# ReactHooksTimer
-Created with CodeSandbox
